@@ -1,0 +1,76 @@
+const list=[
+    {
+    id:1,
+    title:"Snake Plant",
+    img:"https://abeautifulmess.com/wp-content/uploads/2023/05/Snakeplant-4.jpg",
+    price:19,
+    des:"Dracaena trifasciata is a species of flowering plant in the family Asparagaceae",
+    amount:1,
+    },
+    {
+        id:2,
+        title:"Spider Plant",
+        img:"https://media.istockphoto.com/id/1357488052/photo/spider-plant-in-vase.jpg?s=612x612&w=0&k=20&c=AhZrmjeFN6jE88BTXu5bbRO1voBiaxF7qfrP_JHuGEs=",
+        price:12,
+        des:"Spider plants will put up with most light conditions, but will flourish in brighter spots in your home.",
+        amount:1,
+    },
+    {
+        id:3,
+        title:"Peace Lily",
+        img:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQlSP-skdOPAK6dPsuQVHqw3YWnJzIFwB2QA&s",
+        price:18,
+        des:"East-facing windows are perfect for peace lilies because they provide moderate light",
+        amount:1,
+    },
+    {
+        id:4,
+        title:"Rubber Plant",
+        img:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtZXNTXqbxOPPT-2yKTpxiuSAcgpfwBuUrPA&s",
+        price:20,
+        des:"The rubber plant is considered lucky by some cultures as is believed to bring wealth and prosperity to the household.",
+        amount:1,
+    },
+    {
+        id:5,
+        title:"Aloe Vera",
+        img:"https://theaffordableorganicstore.com/wp-content/uploads/2022/02/Products-49.jpg",
+        price:20,
+        des:"Aloe vera is a succulent plant species of the genus Aloe. It is widely distributed,",
+        amount:1,
+    },
+    {
+        id:6,
+        title:"Bosten Fern",
+        img:"https://cdn.shopify.com/s/files/1/0047/9730/0847/products/nurserylive-nephrolepis-exaltata-bosteniensis-boston-fern-plant-1-737114_300x@2x.jpg?v=1679750689",
+        price:25,
+        des:"Nephrolepis exaltata, known as the sword fern or Boston fern, is a species of fern in the family Nephrolepidaceae.",
+        amount:1,
+    },
+    {
+        id:7,
+        title:"Lavender",
+        img:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROqDvPkHamRqjtOtbm4IjQi_1z1pBd0P0QRQ&s",
+        price:50,
+        des:"Lavandula is a genus of 47 known species of perennial flowering plants in the mints family, Lamiaceae",
+        amount:1,
+    },
+    {
+        id:8,
+        title:"Jasmine",
+        img:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnq5w_6_o5ODdt7VcJJJ_qyTMRzOdCNATefQ&s",
+        price:16,
+        des:"Jasmine is inhaled to improve mood, reduce stress, and reduce food cravings. In foods, jasmine is used widely",
+        amount:1,
+    },
+    {
+        id:8,
+        title:"Mint",
+        img:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRz2XhRJJsNdB9jMRAb7URnPA2zOWOUvF4dUg&s",
+        price:12,
+        des:"Mentha, also known as mint is a genus of flowering plants in the mint family, Lamiaceae. It is estimated that 13 to 24 species exist",
+        amount:1,
+    }
+
+]
+export default list
