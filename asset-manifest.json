@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/ReactNurseryApplication/static/css/main.95cd3670.css",
-    "main.js": "/ReactNurseryApplication/static/js/main.e131d53f.js",
+    "main.js": "/ReactNurseryApplication/static/js/main.990bbf95.js",
     "static/js/488.6bb0910c.chunk.js": "/ReactNurseryApplication/static/js/488.6bb0910c.chunk.js",
     "index.html": "/ReactNurseryApplication/index.html",
     "main.95cd3670.css.map": "/ReactNurseryApplication/static/css/main.95cd3670.css.map",
-    "main.e131d53f.js.map": "/ReactNurseryApplication/static/js/main.e131d53f.js.map",
+    "main.990bbf95.js.map": "/ReactNurseryApplication/static/js/main.990bbf95.js.map",
     "488.6bb0910c.chunk.js.map": "/ReactNurseryApplication/static/js/488.6bb0910c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.95cd3670.css",
-    "static/js/main.e131d53f.js"
+    "static/js/main.990bbf95.js"
   ]
 }
