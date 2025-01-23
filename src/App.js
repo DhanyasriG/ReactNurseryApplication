@@ -33,7 +33,7 @@ function App() {
 
   return (
     <div className="App">
-      <Router>
+      <Router basename="/ReactNurseryApplication">
         <Routes>
           <Route path="/" element={<Home/>} />
           <Route path="/plants" element={<Display cart={cart} setCart={setCart} />} />
